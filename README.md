@@ -6,6 +6,7 @@ use react native to create a stopwatch
 ```
 	> git clone git@github.com:smalltide/react-native-stopwatch.git
 	> cd react-native-stopwatch
+	> npm install
 	> react-native run-ios
 	> react-native run-android
 ```
